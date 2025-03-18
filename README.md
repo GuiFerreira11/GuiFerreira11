@@ -6,7 +6,7 @@ With a solid academic background, holding a PhD in Chemistry, I developed projec
 
 <div align="center"> 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiFerreira11&&hide=contribs,prs,stars,issues&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiFerreira11&&hide=issues,stars&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFerreira11&hide=javascript,html,css,scss,perl,jupyter%20notebook&layout=compact&theme=tokyonight)
 
